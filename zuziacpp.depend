@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1421107383 source:c:\workcpacecodeb\zuziacpp\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<fstream>
+
